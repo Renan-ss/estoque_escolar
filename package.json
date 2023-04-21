@@ -1,0 +1,22 @@
+{
+  "name": "estoque_escolar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "expres": "^0.0.5",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "hbs": "^4.2.0",
+    "jquery": "^3.6.4",
+    "moment": "^2.29.4",
+    "popper.js": "^1.16.1"
+  }
+}
